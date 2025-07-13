@@ -11,8 +11,6 @@ building stuff with data and code
 - 🌱 passionate about data, ai, and blockchain tech 
 - 🤝 agile mindset, scrum teams, clean code practices
 
-<br>
-
 <h2 align="center">🛠️ tech stack</h2>
 
 📊 **data & ai**  
@@ -24,15 +22,11 @@ building stuff with data and code
 ☁️ **cloud & infra**  
 `aws` `terraform`
 
-<br>
-
 <h2 align="center">📚 currently obsessed with</h2>
 
 - 🧠 blockchain analytics (`dune`, advanced `sql`, on-chain concepts)  
 - ⚙️ `next.js` for full-stack apps  
 - 📊 getting that power bi certification  
-
-<br>
 
 <h2 align="center">🏆 certifications</h2>
 <p align="center">
@@ -40,8 +34,6 @@ building stuff with data and code
   &nbsp;
   <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="aws ai practitioner" height="100"/>
 </p>
-
-<br>
 
 <p align="center"><i>always tinkering, endlessly curious.</i></p>
 
