@@ -1,5 +1,4 @@
 ```
-// 0xChron/README.md
 hey, i'm aaron 👋
 building stuff with data and code
 ```
