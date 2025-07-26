@@ -13,7 +13,7 @@ building stuff with data and code
 <h2 align="center">🛠️ tech stack</h2>
 
 📊 **data & ai**  
-`python` `sql` `scikit-learn` `nlp` `power bi` `excel` `tensorflow` `langchain` `langgraph`
+`python` `sql` `scikit-learn` `power bi` `excel` `tensorflow` `langchain` `langgraph`
 
 🌐 **web dev**  
 `html` `css` `javascript` `react`
