@@ -1,38 +1,17 @@
-```
-hey, i'm aaron 👋
-building stuff with data and code
-```
+##  aaron — building stuff with data and code.
 
-<h2 align="center">🧠 about me</h2>
+- bs electrical engineering @ uplb
+- data engineer @ accenture, prev ai engineer @ sun life
+- passionate about data, ai, and blockchain tech
+- agile mindset, scrum teams, clean code practices
 
-- 🎓 bs electrical engineering @ `uplb`  
-- 💼 data engineer @ `accenture` | former ai engineer @ `sun life`  
-- 🌱 passionate about data, ai, and blockchain tech 
-- 🤝 agile mindset, scrum teams, clean code practices
+## tech stack
 
-<h2 align="center">🛠️ tech stack</h2>
+- **data & ai**: python, sql, scikit-learn, power bi, excel, tensorflow, langchain, langgraph, nosql
+- **web dev**: html, css, javascript, react, node, express, next.js, typescript
+- **cloud & infra**: aws, terraform, docker
 
-📊 **data & ai**  
-`python` `sql` `scikit-learn` `power bi` `excel` `tensorflow` `langchain` `langgraph` `nosql`
-
-🌐 **web dev**  
-`html` `css` `javascript` `react` `nodejs` `express` `python`
-
-☁️ **cloud & infra**  
-`aws` `terraform`
-
-<h2 align="center">📚 currently obsessed with</h2>
-
-- 🧠 blockchain analytics (`dune`, advanced `sql`, on-chain concepts)  
-- ⚙️ `next.js` for full-stack apps  
-- 📊 getting that power bi certification  
-
-<h2 align="center">🏆 certifications</h2>
-<p align="center">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws cloud practitioner" height="100"/>
-  &nbsp;
-  <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="aws ai practitioner" height="100"/>
-</p>
-
-<p align="center"><i>always tinkering, endlessly curious.</i></p>
+## certifications
+- aws cloud practitioner (clf-c02)
+- aws ai practitioner (aif-c01)
 
