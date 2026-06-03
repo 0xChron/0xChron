@@ -14,4 +14,4 @@
 ## certifications
 - aws cloud practitioner (clf-c02)
 - aws ai practitioner (aif-c01)
-
+- microsoft azure fundamentals (az-900)
