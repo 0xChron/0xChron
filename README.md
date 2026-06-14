@@ -7,9 +7,12 @@
 
 ## tech stack
 
-- **data & ai**: python, sql, scikit-learn, power bi, excel, tensorflow, langchain, langgraph, nosql
-- **web dev**: html, css, javascript, react, node, express, next.js, typescript
-- **cloud & infra**: aws, terraform, docker
+- **ai & ml**: scikit-learn, tensorflow, langchain, langgraph, rag, ai agents, mcp
+- **data engg**: python, sql, dbt, duckdb, etl/elt, data modeling
+- **cloud & infra**: aws, azure, docker, terraform
+- **databases**: postgresql, dynamodb, sqlite, nosql, supabase
+- **analytics**: power bi, excel
+- **web dev**: html, css, javascript, react, node, express, next, typescript
 
 ## certifications
 - aws cloud practitioner (clf-c02)
