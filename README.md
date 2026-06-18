@@ -15,8 +15,8 @@
 - **web dev**: html, css, javascript, react, node, express, next, typescript
 
 ## certifications
-- aws cloud practitioner (clf-c02)
-- aws ai practitioner (aif-c01)
-- microsoft azure fundamentals (az-900)
-- microsoft ai fundamentals (ai-900)
-- microsoft data fundamentals (dp-900)
+- aws certified: cloud practitioner (clf-c02)
+- aws certified: ai practitioner (aif-c01)
+- microsoft certified: azure fundamentals (az-900)
+- microsoft certified: azure ai fundamentals (ai-900)
+- microsoft certified: azure data fundamentals (dp-900)
